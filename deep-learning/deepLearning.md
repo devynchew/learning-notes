@@ -10,5 +10,5 @@ Deep learning aims to learn these features directly from data in a **hierarachic
 ### Forward Propagation
 <!-- Image -->
 <p align="center">
-    <img src="https://github.com/devynchew/learning-notes/deep-learning/images/blob/main/perceptron.PNG" width='400' />
+    <img src="./images/perceptron.PNG" width='400' />
 </p>
