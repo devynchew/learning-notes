@@ -94,3 +94,5 @@ This text is not \*Italic\*
 * [x] Task 1 (Completed)
 * [ ] Task 2 (incomplete)
 * [x] Task 3 (Completed)
+
+Credits to Kah Shin
